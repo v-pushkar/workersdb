@@ -1,0 +1,53 @@
+{
+    "workerList": {
+        {
+            "123": {
+                "id": 123,
+                "name": "Marwan Elgwarsha",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/No-photo-m.png",
+                "equipment": [{
+                    "id": 123,
+                    "assigned": 3
+                }, {
+                    "id": 124,
+                    "assigned": 7
+                }, {
+                    "id": 125,
+                    "assigned": 9
+                }],
+                "vehicle": [112, 120]
+            },
+            "124": {
+                "id": 124,
+                "name": "Jony Jons",
+                "img": "https://img.pngio.com/png-avatar-108-images-in-collection-page-3-png-avatar-300_300.png",
+                "equipment": [{
+                    "id": 124,
+                    "assigned": 15
+                }],
+                "vehicle": []
+            },
+            "125": {
+                "id": 125,
+                "name": "Nik Ferdinand",
+                "img": "https://img.pngio.com/avatar-icon-of-flat-style-available-in-svg-png-eps-ai-icon-png-avatar-256_256.png",
+                "equipment": [],
+                "vehicle": [111]
+            },
+            "126": {
+                "id": 126,
+                "name": "Jovani Madera",
+                "img": "https://img.pngio.com/avatar-icon-of-flat-style-available-in-svg-png-eps-ai-icon-png-avatar-256_256.png",
+                "equipment": [],
+                "vehicle": []
+            },
+            "127": {
+                "id": 127,
+                "name": "Jon Vuik",
+                "img": "https://img.pngio.com/avatar-icon-of-flat-style-available-in-svg-png-eps-ai-icon-png-avatar-256_256.png",
+                "equipment": [],
+                "vehicle": []
+            }
+        }
+    }
+}
