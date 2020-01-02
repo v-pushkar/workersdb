@@ -15,7 +15,7 @@
                 "id": 125,
                 "assigned": 9
                 }],
-            "vehicle": [112, 120]
+            "vehicle": [112, 123]
         },
         {
             "id": 124,
@@ -32,7 +32,7 @@
             "name": "Nik Ferdinand",
             "img": "https://img.pngio.com/avatar-icon-of-flat-style-available-in-svg-png-eps-ai-icon-png-avatar-256_256.png",
             "equipment": [],
-            "vehicle": [111]
+            "vehicle": [118]
         },
         {
             "id": 126,
@@ -46,7 +46,7 @@
             "name": "John Wick",
             "img": "https://pbs.twimg.com/profile_images/592674680806481920/dVt9aVH4_400x400.jpg",
             "equipment": [],
-            "vehicle": []
+            "vehicle": [114]
         }
     ]
 
